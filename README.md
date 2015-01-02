@@ -1,7 +1,7 @@
 CleaningProj
 ============
 
-This is the getting and cleaning data project for coursera
+This is the getting and cleaning data project for coursera.
 Here is the data I used:
 activity_labels - assigns a number to the six activities being measured
 subject_test - Gives the subject identifier for those who were in the test group
